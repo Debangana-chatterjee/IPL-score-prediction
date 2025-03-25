@@ -1,12 +1,12 @@
 # IPL-Score-Prediction
 
-**Overview**
+## **Overview**
 
 This project is an IPL (Indian Premier League) Score Prediction App built using Streamlit and an LSTM model. It allows users to predict the final score of a cricket match based on input parameters such as batting team, bowling team, venue, overs, wickets fallen, and runs scored in the last 5 overs.
 
 
 ---
-**Files in This Repository**
+## **Files in This Repository**
 
 - app.py: The main Streamlit application that serves the IPL score prediction interface.
 
@@ -20,7 +20,7 @@ This project is an IPL (Indian Premier League) Score Prediction App built using 
 
 
 ---
-**Key Insights**
+## **Key Insights**
 
 - The model leverages LSTM, which is well-suited for time-series prediction tasks.
 
@@ -32,7 +32,7 @@ This project is an IPL (Indian Premier League) Score Prediction App built using 
 
 
 ---
-**Model Performance**
+## **Model Performance**
 
 The LSTM model was evaluated using the test dataset, with the following performance metrics:
 
@@ -42,7 +42,7 @@ The LSTM model was evaluated using the test dataset, with the following performa
 These values indicate the model's ability to predict match scores with reasonable accuracy.
 
 ---
-**Future Improvements**
+## **Future Improvements**
 
 - Enhancing model accuracy using additional features.
 
